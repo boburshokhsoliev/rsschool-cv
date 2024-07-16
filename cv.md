@@ -26,17 +26,18 @@ function learnJavaScript() {
 
 ## Experience
 
-  - **Project Name:** E-commerce Website (Academic Project)
+- Project Name: E-commerce Website (Academic Project)
   - **Role:** Developer
   - **Description:** Developed a full-stack e-commerce website using Python (Django) and JavaScript (React). Implemented user authentication, product listings, and payment gateway integration.
   - **Skills Used:** Django, React, Git, SQL
 
 ## Education
-- University: Belarusian National Technical University, Civil Engineering major
-- Courses:
-  - [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-  - [FreeCodeCamp](https://www.freecodecamp.org)
-  - [HTML Academy](https://www.htmlacademy.ru)
+
+- Courses and Training:
+  - Completed online courses on Coursera:
+    - Python for Everybody
+    - Full-Stack Web Development with React
 
 ## English
-A2 (I had been practicing English, when I worked in the USA as an exchange student) 
+- Level: Upper-Intermediate (B2)
+- Language Practice: Participated in an English language exchange program, improving both conversational and technical language skills.
