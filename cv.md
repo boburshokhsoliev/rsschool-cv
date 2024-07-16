@@ -7,3 +7,36 @@
 * **Phone:** +998945015474
 * **Email:** bobasoliev@icloud.com
 * **GitHub:**  [boburshokhsoliev](https://github.com/boburshokhsoliev)
+
+## About Me
+As an aspiring software developer, my goal is to contribute to innovative projects while continually enhancing my skills. I have a strong foundation in programming and a passion for learning new technologies. My strengths include problem-solving, teamwork, and a dedication to producing high-quality code.
+
+## Skills
+
+
+## Code Example
+```
+function learnJavaScript() {
+  const divisibleBy = (numbers, divisor) => {
+    return ''
+  }
+  return divisibleBy([1, 2, 3, 4, 5, 6], 2)
+}
+```
+
+## Experience
+
+  - **Project Name:** E-commerce Website (Academic Project)
+  - **Role:** Developer
+  - **Description:** Developed a full-stack e-commerce website using Python (Django) and JavaScript (React). Implemented user authentication, product listings, and payment gateway integration.
+  - **Skills Used:** Django, React, Git, SQL
+
+## Education
+- University: Belarusian National Technical University, Civil Engineering major
+- Courses:
+  - [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+  - [FreeCodeCamp](https://www.freecodecamp.org)
+  - [HTML Academy](https://www.htmlacademy.ru)
+
+## English
+A2 (I had been practicing English, when I worked in the USA as an exchange student) 
